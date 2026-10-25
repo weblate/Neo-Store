@@ -416,4 +416,8 @@
     </plurals>
     <string name="keep_android_open">保持 Android 開放</string>
     <string name="keep_android_open_notice">Android 之開放以及 F-Droid 正被 Google 顛覆，亟需眾人合力平反。請出手襄助：https://keepandroidopen.org/</string>
+    <string name="disabled_mirrors">已停用鏡像</string>
+    <plurals name="disabled_mirrors_FORMAT">
+        <item quantity="other">%d 個鏡像已停用。</item>
+    </plurals>
 </resources>
