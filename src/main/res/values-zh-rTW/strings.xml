@@ -287,7 +287,7 @@
     <string name="permission_granted">已允許</string>
     <string name="permission_not_granted">未允許</string>
     <string name="vulnerabilities_installed_apps">這些已安裝的應用程序存在已知漏洞！</string>
-    <string name="vulnerabilities">漏洞。</string>
+    <string name="vulnerabilities">漏洞</string>
     <string name="app_installed">已安裝</string>
     <string name="no_vulnerabilities_installed_apps">沒有已安裝的應用程序存在已知漏洞。</string>
     <string name="tools">工具</string>
@@ -414,4 +414,6 @@
     <plurals name="privacy_points_FORMAT">
         <item quantity="other">(-%d私隱點數)</item>
     </plurals>
+    <string name="keep_android_open">保持 Android 開放</string>
+    <string name="keep_android_open_notice">Android 之開放以及 F-Droid 正被 Google 顛覆，亟需眾人合力平反。請出手襄助：https://keepandroidopen.org/</string>
 </resources>
