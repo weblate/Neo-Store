@@ -188,7 +188,7 @@
     <string name="new_repository">Neue Paketquelle</string>
     <string name="default_tab">Standard-Registerkarte</string>
     <string name="installing">Installation</string>
-    <string name="pending">Verfügbar</string>
+    <string name="pending">Ausstehend</string>
     <string name="dialog_refuse">Behalten</string>
     <string name="ignore_battery_optimization_not_supported">Dein Android-Betriebssystem erlaubt kein Abschalten der Akkulaufzeitverbesserungen.</string>
     <string name="ignore_battery_optimization_title">Akkulaufzeitverbesserung</string>
