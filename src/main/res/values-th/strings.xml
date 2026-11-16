@@ -79,4 +79,13 @@
     <string name="links">ลิงก์</string>
     <string name="install">ติดตั้ง</string>
     <string name="install_types">ประเภทการติดตั้ง</string>
+    <string name="light">สว่าง</string>
+    <string name="link_copied_to_clipboard">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
+    <string name="list_animation">ภาพเคลื่อนไหวของรายการ</string>
+    <string name="launch">เปิด</string>
+    <string name="license">สัญญาอนุญาต</string>
+    <string name="name">ชื่อ</string>
+    <string name="network_error_DESC">ข้อผิดพลาดของเครือข่าย</string>
+    <string name="ok">โอเค</string>
+    <string name="only_on_wifi">ใช้Wi-Fiเท่านั้น</string>
 </resources>
