@@ -88,4 +88,8 @@
     <string name="network_error_DESC">ข้อผิดพลาดของเครือข่าย</string>
     <string name="ok">โอเค</string>
     <string name="only_on_wifi">ใช้Wi-Fiเท่านั้น</string>
+    <string name="settings">ตั้งค่า</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="no_applications_available">ไม่มีแอปที่พร้อมใช้งาน</string>
+    <string name="invalid_username_format">รูปแบบชื่อผู้ใช้ไม่ถูกต้อง</string>
 </resources>
